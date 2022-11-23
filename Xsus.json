@@ -1,8 +1,8 @@
 {"name":"Xsus", 
 "description":"By 2z", 
 "icons":[
-    {"name":"xs", "url":"https://raw.githubusercontent.com/Twoandz9/Xsuslogo/main/Xsus144.png"},
-    {"name":"oy", "url":"https://raw.githubusercontent.com/Twoandz9/Xsuslogo/main/oneyuan.png"},
-    {"name":"Mojie", "url":"https://raw.githubusercontent.com/Twoandz9/Xsuslogo/main/Mojie.png"}
+    {"name":"xs", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/Xsus144.png"},
+    {"name":"oy", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/oneyuan.png"},
+    {"name":"Mojie", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/Mojie.png"}
         ]
 }
