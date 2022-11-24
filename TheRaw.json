@@ -1,10 +1,10 @@
 {"name":"The Magic", 
 "description":"By 2z", 
 "icons":[
-    {"name":"xs", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/Xsus144.png"},
-    {"name":"oy", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/oneyuan.png"},
-    {"name":"Xingjiabi", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/Xingjiabi.png"},
-    {"name":"DJ", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/DJ.png"}, 
-    {"name":"Mojie", "url":"https://raw.githubusercontent.com/Twoandz9/Themagic-Icons/main/Mojie.png"}
+    {"name":"xs", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Xsus144.png"},
+    {"name":"oy", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/oneyuan.png"},
+    {"name":"Xingjiabi", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Xingjiabi.png"},
+    {"name":"DJ", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/DJ.png"}, 
+    {"name":"Mojie", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Mojie.png"}
         ]
 }
