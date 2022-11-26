@@ -7,6 +7,7 @@
     {"name":"Kuromis", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Kuromis.png"},
     {"name":"yy1", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/yiyuan1.png"},
     {"name":"Texon1", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Texon1.png"},
+    {"name":"Texon2", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Texon2.png"},
     {"name":"Ytoo1", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Ytoo1.png"}, 
     {"name":"Wd", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Wd.png"}, 
     {"name":"Flowercloud", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Flowercloud.png"}, 
@@ -29,6 +30,9 @@
     {"name":"BYG", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/BYG.png"},
     {"name":"Titan1", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Titan1.png"},
     {"name":"MIlk", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/MIlk.png"},
+    {"name":"Cream", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Cream.png"},
+    {"name":"Paofu", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Paofu.png"},
+    {"name":"Flybird", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Flybird.png"},
     {"name":"Xray", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Xray.png"},
     {"name":"WYY", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/WYY.png"},
     {"name":"Xingjiabi", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Xingjiabi.png"},
@@ -55,6 +59,7 @@
     {"name":"Coffee2", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Coffee2.png"},
     {"name":"Qingliang", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Qingliang.png"},
     {"name":"Liangyuandian", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Liangyuandian.png"},
-    {"name":"Scr", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Scr.png"}
+    {"name":"Scr", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Scr.png"},
+    {"name":"Dingdangamo", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Dingdangamo.png"}
         ]
 }
